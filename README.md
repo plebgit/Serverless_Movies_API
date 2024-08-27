@@ -20,7 +20,7 @@ Create an API with serverless functions that display movie information.
     Store movie cover images of each movie in cloud storage. 
 
 
-    Create Serverless Functions:
+**Create Serverless Functions**:
 
 
 
